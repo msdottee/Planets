@@ -8,7 +8,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import co.grandcircus.Planets.model.PlanetColors;
 import co.grandcircus.Planets.model.PlanetInfo;
 
 @Controller
